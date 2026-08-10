@@ -1,4 +1,4 @@
-# EXPT NO. 3 — CNN Image Classification
+# EXPT NO-3 — CNN Image Classification
 
 ## Implementation of Convolutional Neural Networks (CNNs) for Image Classification
 
