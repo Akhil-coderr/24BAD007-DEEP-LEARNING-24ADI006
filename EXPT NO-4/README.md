@@ -7,7 +7,7 @@ To implement transfer learning and fine-tuning using a pre-trained **ResNet50** 
 
 ## Dataset
 **Cats vs Dogs Dataset — Kaggle:**  
-[Dataset Link](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
+[Dataset Link](https://www.kaggle.com/datasets/aleemaparakatta/cats-and-dogs-mini-dataset)
 
 The dataset was split into **training, validation, and testing** sets and processed using resizing, normalization, and data augmentation.
 
@@ -26,10 +26,6 @@ The dataset was split into **training, validation, and testing** sets and proces
 ## Technologies
 
 `Python` · `TensorFlow/Keras` · `ResNet50` · `Hugging Face` · `ViT` · `NumPy` · `Matplotlib` · `Jupyter Notebook` · `VS Code`
-
-## Dataset
-cats vs dogs mini dataset
-dataset link: https://www.kaggle.com/datasets/aleemaparakatta/cats-and-dogs-mini-dataset
 
 ## Observation
 
